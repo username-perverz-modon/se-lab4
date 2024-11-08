@@ -1,0 +1,7 @@
+# Firing a single torpedo works as expected
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
