@@ -1,0 +1,4 @@
+# Fire ALL with both torpedo stores having torpedoes
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
